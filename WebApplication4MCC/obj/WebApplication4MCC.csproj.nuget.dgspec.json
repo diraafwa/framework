@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dira Afwa\\source\\repos\\WebApplication4MCC\\WebApplication4MCC\\WebApplication4MCC.csproj": {}
+    "E:\\MCC\\Github\\framework\\WebApplication4MCC\\WebApplication4MCC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dira Afwa\\source\\repos\\WebApplication4MCC\\WebApplication4MCC\\WebApplication4MCC.csproj": {
+    "E:\\MCC\\Github\\framework\\WebApplication4MCC\\WebApplication4MCC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dira Afwa\\source\\repos\\WebApplication4MCC\\WebApplication4MCC\\WebApplication4MCC.csproj",
+        "projectUniqueName": "E:\\MCC\\Github\\framework\\WebApplication4MCC\\WebApplication4MCC.csproj",
         "projectName": "WebApplication4MCC",
-        "projectPath": "C:\\Users\\Dira Afwa\\source\\repos\\WebApplication4MCC\\WebApplication4MCC\\WebApplication4MCC.csproj",
+        "projectPath": "E:\\MCC\\Github\\framework\\WebApplication4MCC\\WebApplication4MCC.csproj",
         "packagesPath": "C:\\Users\\Dira Afwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dira Afwa\\source\\repos\\WebApplication4MCC\\WebApplication4MCC\\obj\\",
+        "outputPath": "E:\\MCC\\Github\\framework\\WebApplication4MCC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
